@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Ars";
-    src: url('../fonts/ARSMaquette-Black.otf');
+  src: url('../fonts/ARSMaquette-Black.otf');
     font-weight: bold;
 }
 
@@ -21,19 +21,18 @@
     font-weight: bold;
     font-style: italic;
 }
-
-/* ************** Unused fonts ***************/
-
 /*@font-face
 {
 font-family: Ars;
 src:
-     url('../fonts/ARSMaquette-Bold.otf');
+   url('../fonts/ARSMaquette-Bold.otf');
      url('../fonts/ARSMaquette-BoldItalic.otf'),
      url('../fonts/ARSMaquette-Light.otf'),
      url('../fonts/ARSMaquette-LightItalic.otf'),
      url('../fonts/ARSMaquette-Medium.otf'),
      url('../fonts/ARSMaquette-MediumItalic.otf'),
+
+
 }
 */
 .red {
@@ -159,11 +158,12 @@ h2 {
   letter-spacing: 1px;
   text-transform: uppercase;
   color: rgb(197, 158, 22);
-/*  font-size: 4em;
-  line-height: 2em;
-*/}
+}
 
-h2 {
+em,
+h3 {
+
+/*  was h2*/
   font-weight: 900;
     font-weight: bold;
   letter-spacing: .05em;
@@ -175,6 +175,24 @@ h2 {
 /*  font-size: 2em;
   line-height: 1em;
 */}
+
+li > strong,
+li > p > strong {
+  font-weight: bold;
+  font-family: 'Ars', 'Open Sans', sans-serif;
+  line-height: .8;
+  font-size: 45px;
+  color: rgb(93, 92, 92);
+}
+
+li > em,
+li > p > em {
+  font-style: italic;
+  font-family: 'Ars', 'Open Sans', sans-serif;
+  line-height: .8;
+  font-size: 45px;
+  color: rgb(93, 92, 92);
+}
 
 h3 {
   font-weight: 400;
@@ -315,8 +333,4 @@ span,strong {
   -ms-transition-delay: 0.5s;
   -o-transition-delay: 0.5s;
   transition-delay: 0.5s;
-}
-
-div.notes {
-  display: none;
 }
