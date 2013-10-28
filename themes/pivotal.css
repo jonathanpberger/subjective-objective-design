@@ -136,7 +136,22 @@ h1, h2 {
   font-weight: normal;
 }
 
-h1 {
+h1,
+p strong em
+ {
+  font-weight: 900;
+  font-weight: bold;
+  font-size: 150px;
+  line-height: 140px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: rgb(0, 0, 0);
+  font-style: normal;
+}
+
+strong,
+h2 {
+/*  was h1*/
   font-weight: 900;
   font-weight: bold;
   font-size: 96px;
