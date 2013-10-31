@@ -5,6 +5,12 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
+What it says on the tin:
+
+> The theme for this event is "How can we extend the concepts of Balanced Team into business beyond the product team?"
+
+---
+
 # 1. Sustainable Pace
 
 <!-- testing comments -->
