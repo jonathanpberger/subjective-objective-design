@@ -24,7 +24,7 @@
 /*@font-face
 {
 font-family: Ars;
-src: 
+src:
    url('../fonts/ARSMaquette-Bold.otf');
      url('../fonts/ARSMaquette-BoldItalic.otf'),
      url('../fonts/ARSMaquette-Light.otf'),
@@ -58,7 +58,7 @@ src:
 h5 {
   background-color: rgb(185, 0, 32);
   color: white;
-  
+
 }
 
 /*########## JPB above ############*/
@@ -148,7 +148,7 @@ p strong em
   font-style: normal;
 }
 
-strong, 
+strong,
 h2 {
 /*  was h1*/
   font-weight: 900;
@@ -160,9 +160,9 @@ h2 {
   color: rgb(197, 158, 22);
 }
 
-em, 
+em,
 h3 {
-  
+
 /*  was h2*/
   font-weight: 900;
     font-weight: bold;

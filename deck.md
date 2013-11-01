@@ -1,23 +1,26 @@
 # Sustainable Pace, Agile, and The Big Design Refactor
-Balance Team Conference, 2013
+Balanced Team Conference, 2013
 
 Jonathan Berger, Pivotal Labs
 
 ---
 
-What it says on the tin:
+<!-- What it says on the tin:
 
 > The theme for this event is "How can we extend the concepts of Balanced Team into business beyond the product team?"
 
 ---
 
-# 1. Sustainable Pace
-
-<!-- testing comments -->
+-->
 
 ---
 
-***Call to arms***
+
+# 1. Sustainable Pace
+
+---
+
+## Call to arms
 
 ---
 
@@ -56,7 +59,7 @@ designers
 **billing model**
 
 ---
-<!-- 
+<!--
 **promises are made**
 
 --- -->
@@ -87,26 +90,21 @@ this is an
 
 ---
 
-
-**design culture**
+## design culture
 
 ---
-
 
 **rock star**
 
 ---
 
-
 **all nighters**
 
 ---
 
-
 **design-school crit**
 
 ---
-
 
 **expected to be right**
 
@@ -119,31 +117,26 @@ this is an
 
 ---
 
-
-**sustainable pace**
+What is
+## sustainable pace
 
 ---
-
 
 **constant speed**
 
 ---
 
-
 **empathy**
 
 ---
 
-
 ---
-
-
 
 **call to arms**
 
 ---
 
-# designers should adopt sustainable pace as a value
+***designers should adopt sustainable pace as a value***
 
 ---
 
@@ -154,7 +147,7 @@ this is an
 ---
 
 
-**solution**
+## solution
 
 ---
 
@@ -169,7 +162,7 @@ this is an
 ---
 
 
-**similar problems**
+## similar problems
 
 ---
 
@@ -194,7 +187,7 @@ instead of
 ---
 
 why aren't we asking
-# "How can Agile serve designers?"
+**"How can Agile serve designers?"**
 
 ---
 
@@ -205,7 +198,7 @@ why aren't we asking
 ---
 
 
-**In the beginning...**
+## In the beginning...
 
 ---
 
@@ -231,8 +224,8 @@ Design solutions
 
 ---
 
-
-**product iterates**
+Then,
+## product iterates
 
 ---
 
@@ -249,7 +242,7 @@ Design solutions
 ---
 
 
-**Understand and accept**
+## Understand and accept
 
 ---
 
@@ -282,25 +275,19 @@ Design solutions
 
 ---
 
----
-
-
 **Communicate**
 
 ---
-
 
 **keep an eye on the health of the graphic system**
 
 ---
 
-
 **manage your design debt**
 
 ---
 
-
-**How?**
+## How?
 
 - Mention that the system is breaking down
 - Keep solving the tactical problems
@@ -308,35 +295,29 @@ Design solutions
 
 ---
 
-
 **the balance shifts**
 
 ---
-
 
 **raise the alarm**
 
 ---
 
-
 **Design retro**
 
 ---
 
-
-**Do systematic visual Design**
-
----
-
-
-**What DOES THE BIG DESIGN REFACTOR look like?**
-
-- mostly at whiteboards or Adobe Creative Suite
-- include product ~4-7x / week
-- ping development ~1-2x / week to consult on technical implications
+**Do systematic Visual Design**
 
 ---
 
+## What DOES THE BIG DESIGN REFACTOR look like?
+
+- is mostly on whiteboards or Adobe Creative Suite
+- includes product ~4-7x / week
+- pings development ~1-2x / week to consult on technical implications
+
+---
 
 **Near the end of Big design refactor**
 
@@ -346,7 +327,6 @@ Design solutions
 
 ---
 
-
 **Costs of delay**
 
 - Nothing feels more like waste than a heavy investment in design
@@ -354,7 +334,6 @@ Design solutions
 - This will kill trust between design product (in both directions)
 
 ---
-
 
 **After the Big Design refactor**
 
@@ -382,7 +361,7 @@ Design solutions
 **...and the cycle repeats**
 
 ---
-**work with the Big Design Refactor, not against it.**
+***work with the Big Design Refactor, not against it.***
 
 ---
 
