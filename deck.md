@@ -1,27 +1,370 @@
-# Sustainable Pace, Agile, and The Big Design Refactor
+# Product, Viability, Minimalism (and The Big Design Refactor)
 Balanced Team Conference, 2013
 
 Jonathan Berger, Pivotal Labs
 
 ---
 
-<!-- What it says on the tin:
+### Someone asked
 
-> The theme for this event is "How can we extend the concepts of Balanced Team into business beyond the product team?"
+> How is product strategy is integrated into lean startup and agile teams? High level strategy and product vision can often be left out of the process when pushing toward an MVP. Perhaps you guys have had some experience with this? Do you have a technique or process that helps with this?
 
 ---
 
--->
+## How is product strategy integrated into lean startup and agile teams?
+
+> High level strategy and product vision can often be left out of the process when  pushing toward an MVP.
+
+---
+
+# Use Lean Hypotheses to Define an MVP
+
+---
+
+## people fall in love
+with the idea of
+
+"Minimum Viable Product"
+
+---
+
+**It’s minimal!**
 
 
-<!-- Courtney's ask -->
-<!--
-- how product strategy is integrated into lean startup and agile teams.
-- I think that the high level strategy and product vision can often be left out of the process when you are pushing toward an MVP.
-- Perhaps you guys have had some experience with this?
-- Do you have a technique or process that helps with this?
--->
+So there’s less risk.
 
+---
+
+**It’s viable!**
+
+
+So it’ll prove something!
+
+---
+
+**It's a Product**
+
+
+That's what we're supposed to build!
+
+---
+
+Unfortunately
+## it’s easy for the line of “minimum” or “viable” to slip.
+
+---
+
+## How can a team stay focused?
+
+---
+
+***A Lean Hypothesis can help.***
+
+---
+
+**It's a tool that takes the form of**
+
+---
+
+We believe 
+
+*[TYPE OF USER]*
+
+
+has a problem 
+
+*[DOING THING].*
+
+
+We can help them with 
+
+*[OUR SOLUTION].*
+
+
+We'll know we're right if 
+
+*[CHANGE IN METRIC].*
+
+---
+
+e.g.
+
+
+**Hamazon**
+
+
+![hamazon.png]
+
+---
+
+PROBLEM:
+
+> Users are clicking around and spending lots of time-on-site, but they’re not putting items in their cart and converting.
+
+---
+
+We believe
+
+*SHOPPERS*
+
+
+have a problem
+
+*CHOOSING FROM THE MASSIVE SELECTION OF PORK PRODUCTS*
+
+
+We can help them by
+
+
+*SHOWING RECOMMENDATIONS FROM OTHER SHOPPERS*
+
+
+We'll know we're right if
+
+
+*SHOPPERS ADD ITEMS TO CART MORE QUICKLY*
+
+---
+
+an MVP can be defined as
+## the least amount of work we can do to in/validate the hypothesis.
+
+---
+
+
+**recommendation engine**
+
+
+(expensive!)
+
+---
+
+a more specific problem:
+
+
+**shoppers need guidance**
+
+---
+
+MVP: test this hypothesis
+
+
+**curate a featured selection products**
+
+---
+
+**cheaper**
+
+
+than building a recommendation engine
+
+---
+
+if it fails,
+## iterate
+
+---
+
+if it succeeds,
+**iterate**
+
+---
+
+it’s possible our segmented curation would get so specific that we’d end up building a recommendation engine, but we’d only do so if the business needs led us there, rather than our intuition.
+
+In that way, we’d iterate towards a truly minimal, truly viable product.
+
+---
+
+
+
+# 3. Big Design Refactor
+
+---
+
+
+## In the beginning...
+
+---
+
+There's a
+
+**visual design system**
+
+---
+
+Then
+
+**the project goes Agile**
+
+---
+
+Development solutions
+
+**I.N.V.E.S.T., small pieces**
+<br />
+Design solutions
+
+**Malleable, never done, holistic**
+
+---
+
+Then,
+## product iterates
+
+---
+
+
+**degrades under the weight of a thousand tiny changes**
+
+---
+
+
+**designers have to play catch-up in a race they can't win**
+
+---
+
+---
+
+
+## Understand and accept
+
+---
+
+
+**this design-system degradation is an affordance of differently-sized design and development cycles**
+
+---
+= id=prayer
+
+
+**Agile Designers Prayer**
+
+> Grant me the serenity
+
+> To accept the things I cannot change
+
+> The courage to change the things I can
+
+> And the wisdom to know the difference
+
+---
+
+
+**Designers need not work at developers tempo**
+
+---
+
+
+**stay in-rhythm with development, not on-pace**
+
+---
+
+**Communicate**
+
+---
+
+**keep an eye on the health of the graphic system**
+
+---
+
+**manage your design debt**
+
+---
+
+## How?
+
+- Mention that the system is breaking down
+- Keep solving the tactical problems
+- keep delivering value
+
+---
+
+**the balance shifts**
+
+---
+
+**raise the alarm**
+
+---
+
+**Design retro**
+
+---
+
+**Do systematic Visual Design**
+
+---
+
+## What DOES THE BIG DESIGN REFACTOR look like?
+
+- is mostly on whiteboards or Adobe Creative Suite
+- includes product ~4-7x / week
+- pings development ~1-2x / week to consult on technical implications
+
+---
+
+**Near the end of Big design refactor**
+
+- deliver a set of user stories accompanied by mockups
+- It’ll often take an IPM or two to get through all of them
+- it’s important that they get implemented soon
+
+---
+
+**Costs of delay**
+
+- Nothing feels more like waste than a heavy investment in design
+- followed by unacted-upon stories that go stale
+- This will kill trust between design product (in both directions)
+
+---
+
+**After the Big Design refactor**
+
+- new design is being built
+- designers occasionally hop back into Adobe for assets or newly-discovered UX tweaks
+- most design time is spent pairing with developers
+
+---
+
+
+**until the next refactor**
+
+- designers pair on stories, work on design problems revealed by user testing
+- ~66% development and 33% Adobe apps
+- The debt clock is starting to tick again, and once the pain is noticeable, start making noises
+
+---
+
+
+**“we’re ok for right now, but we’ll need a design refactor in the next 3-5 weeks”**
+
+---
+
+
+**...and the cycle repeats**
+
+---
+***work with the Big Design Refactor, not against it.***
+
+---
+
+
+---
+
+# Experiences
+
+---
+
+# Techniques and processes that help
+
+---
+
+# Thanks!
+
+---
+---
 
 ---
 
