@@ -13,6 +13,16 @@ Jonathan Berger, Pivotal Labs
 
 -->
 
+
+<!-- Courtney's ask -->
+<!--
+- how product strategy is integrated into lean startup and agile teams.
+- I think that the high level strategy and product vision can often be left out of the process when you are pushing toward an MVP.
+- Perhaps you guys have had some experience with this?
+- Do you have a technique or process that helps with this?
+-->
+
+
 ---
 
 
