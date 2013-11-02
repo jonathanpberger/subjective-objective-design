@@ -535,6 +535,7 @@ Technique
 ---
 
 **columns**
+
 - Now
 - Next
 - Later
@@ -553,7 +554,7 @@ Generally you'll have
 
 ---
 
-## it externalizes future epics
+**it externalizes future epics**
 
 1. so everyone is reminded they exist, and
 2. can see their relative priority
@@ -562,33 +563,33 @@ Generally you'll have
 
 it gives Stakeholders a place to
 
-## park long-term ideas
+**park long-term ideas**
 
 ---
 
-and to
+it gives Stakeholders a way to
 
-## feel that their contributions are included
-
----
-
-## it gives a big-picture view
-
-that tactical what-are-we-working-on-this-week systems have trouble displaying succinctly.
+**feel that their contributions are included**
 
 ---
 
-**(This is great for strategic-level Release Planning meetings that I like to try to have every 3 or 4 weeks.)**
+**it gives a big-picture view**
+
+that tactical what-are-we-working-on-this-week systems have trouble displaying succinctly
+
+---
+
+*This is great for strategic-level Release Planning meetings that should happen every 3 or 4 weeks.*
 
 ---
 
 On a recent project, we had a bit of
 
-## Priority Whiplash
+**Priority Whiplash**
 
 ---
 
-**\< storytime \>**
+*\< storytime /\>*
 
 ---
 
@@ -608,23 +609,29 @@ When the whole board is a big lie, that's a signal to the whole team that it's t
 
 ---
 
+# idea board helps keep strategic vision in the picture
+
+---
+
 > How is product strategy integrated into agile teams?
 
 ---
 
 Technique
-# 2d: Back to basics
-
-the standard agile toolkit
+# 2d: agile
 
 ---
 
-agile has done this well for years using tools like
+**it was there the whole time!**
+
+---
+
+Agile has done this well for years using tools like
 
 - YAGNI
 - Simplest Thing That Could Possibly Work
 - 5 Why's
-- INVEST stories
+- I.N.V.E.S.T. stories
 - user testing
 - short (weekly?) iterations
 - IPMs
@@ -632,11 +639,19 @@ agile has done this well for years using tools like
 
 ---
 
+**screwdrivers & cubicles**
+
+---
+
+**don't lose the thread**
+
+---
+
 # 3. How does this all fit together?
 
 ---
 
-## 5 Big Problems
+## 5 Problems for Agile & design
 - When is design "done"?
 - How much design should a project start with?
 - Why is Agile so tough for designers?
@@ -649,21 +664,23 @@ agile has done this well for years using tools like
 
 ---
 
-## testing:
+## testing
 - help us slice objective from subjective
 - helps us know when we're done
 
 ---
 
-## make it right, make it work, make it fast
-- work at the right level of resolution
-
----
 
 ## pairing:
 - knowledge transfer,
 - un-silo'ing pain across team
-- SEE QUANDORA
+
+<!-- - SEE QUANDORA -->
+
+---
+
+## make it right, make it work, make it fast
+- work at the right level of resolution
 
 
 ---
