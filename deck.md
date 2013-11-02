@@ -1,4 +1,4 @@
-# Planning, Building, and The Big Design Refactor
+# Product Strategy, Tactics, & Tips for keeping it together
 Balanced Team Conference, 2013
 
 Jonathan Berger, Pivotal Labs
@@ -11,7 +11,7 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-## The plan
+### The plan
 
 1. How can product vision be kept in view when pushing toward an MVP?
 2. How is product strategy best integrated into lean startup and agile teams?
@@ -19,11 +19,11 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-# How can product vision be kept in view when pushing toward an MVP?
+## How can product vision be kept in view when pushing toward an MVP?
 
 ---
 
-# 1. Big (Product) Design Refactor
+# 1. The Big Design Refactor (+ product)
 
 ---
 
@@ -401,6 +401,10 @@ In that way, we iterate towards
 
 ---
 
+> How is product strategy integrated into agile teams?
+
+---
+
 Technique
 # 2b: The <s>Bullpucky</s> Assumptions Label
 
@@ -528,6 +532,10 @@ option 1:
 
 ---
 
+> How is product strategy integrated into agile teams?
+
+---
+
 Technique
 # 2c: The Idea Board
 
@@ -630,38 +638,57 @@ When the whole board is a big lie, that's a signal to the whole team that it's t
 
 ---
 
+> How is product strategy integrated into agile teams?
+
+---
 
 Technique
-# 2d: Back to basics: the standard agile (dev) toolkit
+# 2d: Back to basics
+
+the standard agile toolkit
 
 ---
 
-- the standard agile (dev) toolkit does this *really* well
-that's why it's successful. Back to basics: YAGNI, Simplest Thing That Could Possibly Work, 5 Why's, INVEST stories, user testing, weekly iterations, IPMs, release planning meetings.
+agile has done this well for years using tools like
+
+- YAGNI
+- Simplest Thing That Could Possibly Work
+- 5 Why's
+- INVEST stories
+- user testing
+- short (weekly?) iterations
+- IPMs
+- release planning
 
 ---
 
-# 3. How this all fits together
+# 3. How does this all fit together?
 
 ---
 
-# 5 Big Problems
-## When is design "done"?
-## How much design should a project start with?
-## Why is Agile so tough for designers?
-## How can designers achieve sustainable pace?
-## How do we slice objective design off from subjective design?
+## 5 Big Problems
+- When is design "done"?
+- How much design should a project start with?
+- Why is Agile so tough for designers?
+- How can designers achieve sustainable pace?
+- How do we slice objective design off from subjective design?
 
 ---
 
-# Solutions
+## Possible Solution techniques
+
+---
 
 ## testing:
 - help us slice objective from subjective
 - helps us know when we're done
 
+---
+
 ## make it right, make it work, make it fast
 - work at the right level of resolution
+
+---
 
 ## pairing:
 - knowledge transfer,
