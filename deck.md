@@ -345,55 +345,20 @@ an MVP can be defined as
 
 ---
 
-
-**recommendation engine**
-
-
-(expensive!)
+Must we
+**build a recommendation engine?**
 
 ---
 
-a more specific problem:
-
-
-**shoppers need guidance**
+Or can we
+**build a "featured products" page?**
 
 ---
 
-MVP: test this hypothesis
+Both test the hypothesis
 
 
-**curate a featured selection products**
-
----
-
-**cheaper**
-
-
-than building a recommendation engine
-
----
-
-if it fails,
-## iterate
-
----
-
-if it succeeds,
-
-
-**iterate**
-
----
-
-It’s possible our segmented curation would get so specific that we’d end up building a recommendation engine, but we’d only do so if the business needs, rather than our intuition, led us there.
-
----
-
-In that way, we iterate towards
-
-
-**a truly minimal, truly viable product.**
+**"least amount of work" == mvp**
 
 ---
 
@@ -435,12 +400,7 @@ but
 
 ---
 
-Sometimes,
-**long-term planning is necessary**
-
----
-
-*what to do?*
+## sometimes long-term planning is necessary
 
 ---
 
@@ -454,7 +414,7 @@ option 1:
 
 ---
 
-## What happens during the mini-inception?
+**What happens during the mini-inception?**
 
 ---
 
@@ -466,15 +426,15 @@ option 1:
 
 ---
 
-## What happens after the mini-inception?
-
----
-
-*re-estimate half those stories in angry IPMs*
+**What happens after the mini-inception?**
 
 ---
 
 *the estimates are wrong*
+
+---
+
+*re-estimate half those stories in angry IPMs*
 
 ---
 
@@ -483,24 +443,34 @@ option 1:
 ---
 
 ---
+
+Option 2:
 ## the Assumptions Label technique:
 
 ---
-## Hold a 2-3hr Meeting
+
+**disambiguate between real estimates and rough guesses**
+
+---
+
+**Hold a 2-3hr Meeting**
+
 - with the PM and 1 or 2 devs
 - Estimate epics at a multiples-of-8-point level of granularity
 - rough out your feature tracks
 
 ---
 
-## Put it in Tracker
+**Put it in Tracker**
+
 - Write titles in all caps
 - Don’t bother writing a description for the story.
 - It’s ok to use multiple 8-pointers to get to the number you need.
 
 ---
 
-## Throw an “assumptions” label on all these stories
+**Throw an “assumptions” label on all these stories**
+
 - they’re easier to wrangle
 - (and it never hurts to drive the point home).
 
@@ -511,24 +481,24 @@ option 1:
 ---
 
 ## This helps the Client / PM
-- re-prioritize coarse-grained blocks of epic
-- estimated completion dates will adjust
+- re-prioritize epics and dates will adjust
 - create rough estimates
-- cut scope or add pairs.
+- cut scope or add pairs
 
 ---
 
 ## This helps the devs
-- these won't be mistaken for actual, deliverable stories.
-- In fact, these “assumption” stories become a decent way to see what’s next when story-writing.
-- IPM or pre-IPM often becomes an exercise in picking the top assumption off the top of the file and fleshing it out into real stories.
+- these won't be mistaken for actual stories
+- a decent way to see what’s next when story-writing
+- IPM or pre-IPM can be picking the top assumption and fleshing it out
 
 ---
 
-## everyone gets better visibility into the project.
-- dev and designe can set better expectations for their PMs,
-- PMs can set proper expectations for their boss
-- trust is preserved on the team.
+## everyone gets better visibility into the project
+
+---
+
+# strategy ties into tactics
 
 ---
 
@@ -541,17 +511,17 @@ Technique
 
 ---
 
-## Inception ends
-- with a fully fleshed out backlog for the next few iterations,
-- some farther-off, coarse-grained, Epic-level ideas written on index cards.
+## At Inception
+- detailed near-term backlog
+- coarse-grained Epic-level ideas on index cards
 
 ---
 
-## What to do with epic-level cards?
+*What to do with epic-level cards?*
 
 ---
 
-***externalize them***
+**externalize them**
 
 ---
 
@@ -564,7 +534,7 @@ Technique
 
 ---
 
-## Create a few columns:
+**columns**
 - Now
 - Next
 - Later
@@ -573,9 +543,9 @@ Technique
 
 Generally you'll have
 
-- 2-3 cards in the Now column,
-- another 2-3 in the Next Column,
-- and the rest (~20-40) in the Later column.
+- 2-3 cards in "Now"
+- another 2-3 in "Next"
+- and the rest (~20-40) in "Later"
 
 ---
 
