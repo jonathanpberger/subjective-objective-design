@@ -1,11 +1,11 @@
-# Product Strategy, Tactics, & Tips for keeping it together
-Balanced Team Conference, 2013
-
-Jonathan Berger, Pivotal Labs
+**Hi :-)**
 
 ---
 
-** Hi :-) **
+
+# Lean UX NYC, 2014
+
+Jonathan Berger, Pivotal Labs
 
 ---
 
@@ -17,7 +17,7 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-**A Proposed program for Automated Testing in Design**
+***A Proposed program for Automated Testing in Design***
 
 
 ---
@@ -35,11 +35,9 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
- devised
-
-**automated testing techniques **
-
-to protect their work.
+**and so devised**
+***automated testing techniques***
+**to protect their work.**
 
 
 ---
@@ -59,11 +57,22 @@ to protect their work.
 
 ---
 
-## In this talk we'll explore testing possibilities for Visual design, User Experience design, and front-end engineering, and try to build a testing pyramid for design.
+In this talk we'll explore testing possibilities for
 
+- Visual design,
+- User Experience design, and
+- front-end engineering,
 
+---
 
-- recap "devs had the same problems 20 yrs ago as designers do now"
+and
+**try to build a testing pyramid for design.**
+
+---
+
+---
+
+**20 yrs ago**
 
 ---
 
@@ -76,18 +85,46 @@ to protect their work.
 
 ---
 
-- What is design? (people ask "did you design that shirt?")
+## What is design?
 
+(people ask "did you design that shirt?")
 
-- What is TDD?
-  - benefits
-  - technique
-- What is Test-Driven Design?
-  - benefits
-  - technique
+---
 
+## What is Test-Driven Development?
+- benefits
+- technique
 
-- Design Testing Pyramid
+---
+
+## What is Test-Driven Design?
+- benefits
+- technique
+
+---
+
+# Dev Testing Pyramid
+- 1 ("Functional") Acceptance test
+- 10 Integration tests
+- 100 Unit tests
+
+or
+
+UI
+Service
+Unit
+
+---
+
+# Design Testing Pyramid
+
+## Assert Design Decisions (cactus)
+## Control Regressions (green_onion)
+## Safely refactor bloated CSS (CSS Racionator)
+## Enforce Code Conventions (CSS Lint)
+## Enforce personas (persona_dot_yml)
+## Enforce Styleguide-Driven Development (style_cop)
+
 
 ---
 
