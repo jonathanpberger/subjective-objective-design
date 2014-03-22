@@ -1,3 +1,12 @@
+# TODO:
+
+- have a drink
+- record me talking about this
+- transcribe
+- figure out what the timing looks like, what makes the cut
+
+---
+
 **Hi :-)**
 
 ---
@@ -28,6 +37,7 @@ Jonathan Berger, Pivotal Labs
 
 - Who's had to refactor a mess of CSS?
 - Who's had unintended design changes (especially in responsive designs) lead to regressions?
+- Who's had trouble defining "done" for a design problem?
 
 ---
 
@@ -42,17 +52,17 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-## What would automated testing look like for design?
+## What might automated testing look like for design?
 
 
 ---
 
-## What would it look like to have a more defined definition of "done" for design?
+**What would it look like to have a more defined definition of "done" for design?**
 
 
 ---
 
-## What if designers could refactor with impunity?
+**What if designers could refactor with impunity?**
 
 
 ---
@@ -70,9 +80,7 @@ and
 
 ---
 
----
-
-**20 yrs ago**
+***20 yrs ago***
 
 ---
 
@@ -94,6 +102,29 @@ and
 ## What is Test-Driven Development?
 - benefits
 - technique
+
+---
+
+### Benefits
+
+Paul Wilson [says](http://www.neo.com/2014/03/20/the-many-faces-of-test-driven-development):
+
+> For me, TDD's benefits are:
+
+> - It gives me **confidence** that my code does what I think it does
+
+> - It confers the **ability to refactor** code without the fear that I have broken something
+
+> - It encourages a testable, and hence modular, **design**
+
+> - The **tests describe the behaviour** of the code
+
+---
+
+### Technique
+- Red
+- Green
+- Refactor
 
 ---
 
