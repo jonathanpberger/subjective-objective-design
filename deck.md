@@ -159,8 +159,93 @@ Unit
 
 ---
 
-# Notes
+<!-- not sure where this goes -->
 
+Independent: maybe?
+Negotiable: yes!
+Valuable: yes!
+Estimatable: in theory, yes
+Small: maybe?
+Testable: working on that now
+
+---
+
+# 99 (Hypo)theses
+not sure if this is part of the talk, a new version of the talk, or what. But I shuold go with it for a little while.
+
+---
+
+> "We believe [TYPE OF USER] has a problem [DOING THING]. We can help them with [OUR SOLUTION]. We'll know we're right if [CHANGE IN METRIC]."
+
+---
+
+We believe designers have a problem 
+
+*refactoring the messes of CSS that metastasize once a project gets past the early phases.*
+
+We can help them with 
+
+*a tool that provides for refactoring CSS with impunity.*
+
+We'll know we're right 
+
+*if Latter-Day Stylesheets become less of a problem (we can test this on our own codebases).*
+
+---
+
+We believe designers suffer from unintended design regressions (especially in responsive designs) when changes in one part of the codebase unexpectedly affect another. We can help them with a tool that craws the whole app and announces if anything's changed.
+
+---
+
+
+We believe designers suffer from the *fear* of unintended design regressions, never being 100% certain that new changes haven't broken old styling.
+
+---
+
+
+*We believe*
+
+designers have trouble defining "done", which makes it hard to set expectations, to communicate with teams, and to manage their own work. 
+
+*We can fix this *
+
+with a practice of Test-Driven Design, where "done" can be INVESTED up-front. 
+
+*We'll know we're right*
+
+if there're fewer client disapprovals, because expectations were better set up-front. We'll know we're right if life gets better for designers.
+
+---
+
+
+We believe developers lacked confidence that their code would continue to work in the face of a changing codebase. They fixed it by testing their code and running Continuous Integration tests. We know they're right because this is a growing practice among businesses and developers.
+
+---
+
+
+We believe developers suffered from an inability to safely refactor code for fear of breaking something. They fixed this with tests, and we know they're right because techniques like Red-Green-Refactor can become cornerstones of their practice.
+
+<!-- 2 more: testable and hence modular, and "tests describe behavior" -->
+
+---
+
+
+We believe designers have a problem with the imprecision of the word "design". We can fix this by spreading a vocabulary with more subtle distinctions. We'll know we're right if expectations are better set because client and designer share a ubiquitous language.
+
+
+---
+
+# Pyramid of types of design
+
+what is it?, what do we usually call it?, how do we usually deliver it?, how could we test it?
+concept / visual language / metaphor (IA?)
+UX / wires
+
+CSS
+expression: final app
+
+---
+# Notes
 
 ## Ideal Workflow
 
