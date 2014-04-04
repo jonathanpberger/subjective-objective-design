@@ -1,5 +1,3 @@
----
-
 **Hi :-)**
 
 ---
@@ -39,7 +37,7 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-# Is design objective or subjective?
+# Is design subjective or objective?
 
 ---
 
@@ -53,7 +51,7 @@ Jonathan Berger, Pivotal Labs
 
 *We tend not to distinguish between*
 
-**the types of design that are highly objective** *and* **the types of design that are highly subjective.**
+**the types of design that are highly subjective** *and* **the types of design that are highly objective.**
 
 ---
 
