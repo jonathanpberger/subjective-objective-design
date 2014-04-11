@@ -1,3 +1,5 @@
+
+
 **Hi :-)**
 
 ---
@@ -6,6 +8,26 @@
 # Lean UX NYC, 2014
 
 Jonathan Berger, Pivotal Labs
+
+---
+
+***Towards a Theory and Method of Test Driven Design***
+
+---
+
+***<s>Towards a Theory and Method of Test Driven Design</s>***
+
+---
+
+***Subjective Design & Objective Design***
+
+---
+
+**Who Am I?**
+
+- ~25 projects
+- design, code, pm
+- interested in agile practice for design
 
 ---
 
@@ -191,11 +213,21 @@ The utility of objective and subjective judgement varies by type of design. Desi
 
 ---
 
+***Thanks!***
+
+(one more thing...)
+
+---
+**this sun, 10am-4pm**
+# balanced team salon
+**bit.ly/btapril13**
+
+---
 # Thanks!
 
 - <http://jonathanpberger.com/talks>
 - Say hi on twitter at `@jonathanpberger`
-- or `jonathanpberger` on github, gmail, forrst, etc...
+- or `jonathanpberger` on github, gmail, etc...
 
 ---
 <script src="js/jquery.js"></script>
