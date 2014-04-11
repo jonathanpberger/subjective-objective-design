@@ -140,6 +140,58 @@ across various types of design.
 
 ---
 
+## The design business is built around deliverables
+
+---
+
+## Practice is about design decisions
+
+---
+
+**"Getting out of the deliverable business"**
+
+---
+
+
+The Agile Manifesto prefers 
+
+**"Working software over comprehensive documentation". **
+
+---
+
+To take it to an extreme
+
+**all documentation is waste**
+
+---
+
+**eliminate documentation entirely**
+
+---
+
+**<s>eliminate documentation entirely</s>**
+
+---
+
+# minimizing documentation is a Good Thing, 
+
+---
+
+designers ought to communicate design decisions with the least amount of work possible. 
+
+---
+
+## With Apologies
+
+> We are uncovering better ways of designing experiences by doing it and helping others do it.
+Through this work we have come to value design decisions as the fundamental unit of work for designers. We prefer to communicate design decisions by:
+
+---
+
+- Comments over Wireframes,
+- Wireframes over Low-Res Mocks,
+- Low-Res Mocks over High-Res Mocks,
+- A Few [DRY][] High-Res Mocks, Supported by a Live Styleguide, over Exhaustive High-Res Documentation
 
 
 ---
