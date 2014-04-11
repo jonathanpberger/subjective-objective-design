@@ -31,7 +31,7 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-# Subjective Design & Objective Design
+# I. Subjective Design & Objective Design
 
 ---
 
@@ -39,19 +39,17 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-
-## I'm a designer
+## I'm a "designer"
 
 ---
 
-
-- web design,
-- interaction design,
-- product design,
-- visual design,
-- UX design,
-- UI design,
-- etc
+- web design
+- interaction design
+- product design
+- visual design
+- UX design
+- UI design
+- etc.
 
 ---
 
@@ -68,6 +66,14 @@ Jonathan Berger, Pivotal Labs
 ---
 
 ***what are we judging?***
+
+---
+
+**If we can't agree on a definition of done, we waste time, money, and trust**
+
+---
+
+***waste != lean***
 
 ---
 
@@ -103,7 +109,10 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-## we can state with a high degree of confidence that one solution is (objectively) better
+we can state with a high degree of confidence that
+
+
+**one solution is (objectively) better**
 
 ---
 
@@ -115,7 +124,23 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-## when scoping design work, we confuse the meaning of "done" across various types of design.
+when scoping design work
+
+**we often confuse the meaning of "done"**
+
+across various types of design.
+
+---
+
+***(an aside)***
+
+---
+
+# II. Minimum Viable Deliverable
+
+---
+
+
 
 ---
 
@@ -131,22 +156,24 @@ Jonathan Berger, Pivotal Labs
 
 ---
 
-*To subject objectively-judge-able species of design to the approval of a non-designer client is akin to demanding client approval from your dentist or surgeon.*
+**To subject objectively-judge-able species of design to the approval of a non-designer client is akin to demanding client approval from your dentist or surgeon.**
 
 ---
 
-# Articulating Objective and Subjective Design
+# III. Articulating the Subjective and the Objective
 
 ---
 
 ### how can we address this problem?
 
-- by crafting better stories for non-designers, explaining which parts of design benefit greatly from subjective feedback and which don't,
 - by starting a conversation about a taxonomy of design types and the level of subjectivity for each.
+- by crafting better stories for non-designers, explaining which parts of design benefit greatly from subjective feedback and which don't,
 
 ---
 
-## A provisional taxonomy of types of design and how subjective they tend to be
+## A provisional scale for types of design
+
+**(and how subjective they tend to be)**
 
 ---
 
