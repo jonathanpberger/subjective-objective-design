@@ -334,3 +334,35 @@ span,strong {
   -o-transition-delay: 0.5s;
   transition-delay: 0.5s;
 }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  font-size: 20px ;
+  height: 60px; /* approx height of the pivotal logo*/
+  width: 100%;
+  background-color: #EEE; /* Not glairing white*/
+}
+
+.footer .pivotal-logo {
+  position: absolute;
+  left: 1%;
+  bottom: 1%;
+}
+
+.footer .guest-logo {
+  position: absolute;
+  right: 1%;
+  bottom: 1%;
+  height: 45px;
+  width: 135px;
+  background-image: url('../images/guest_logo.png');
+  background-repeat: no-repeat;
+}
+
+.footer .title {
+  position: absolute;
+  text-align: center;
+  bottom: 33%;
+  width: 100%;
+}
