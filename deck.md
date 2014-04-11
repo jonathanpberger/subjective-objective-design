@@ -132,7 +132,7 @@ across various types of design.
 
 ---
 
-***(an aside)***
+*(an aside)*
 
 ---
 
@@ -153,9 +153,9 @@ across various types of design.
 ---
 
 
-The Agile Manifesto prefers 
+The Agile Manifesto prefers
 
-**"Working software over comprehensive documentation". **
+**"Working software over comprehensive documentation".**
 
 ---
 
@@ -173,11 +173,11 @@ To take it to an extreme
 
 ---
 
-# minimizing documentation is a Good Thing, 
+# minimizing documentation is a Good Thing
 
 ---
 
-designers ought to communicate design decisions with the least amount of work possible. 
+## designers ought to communicate design decisions with the least amount of work possible.
 
 ---
 
@@ -188,11 +188,19 @@ Through this work we have come to value design decisions as the fundamental unit
 
 ---
 
-- Comments over Wireframes,
-- Wireframes over Low-Res Mocks,
-- Low-Res Mocks over High-Res Mocks,
-- A Few [DRY][] High-Res Mocks, Supported by a Live Styleguide, over Exhaustive High-Res Documentation
+- ***Comments over Wireframes,***
+- *Wireframes over Low-Res Mocks,*
+- ***Low-Res Mocks over High-Res Mocks,***
+- *A Few [DRY][] High-Res Mocks, Supported by a Live Styleguide, over Exhaustive High-Res Documentation*
 
+
+---
+
+*(end aside)*
+
+---
+
+## expectations should be set differently for Different types of design
 
 ---
 
@@ -208,7 +216,9 @@ Through this work we have come to value design decisions as the fundamental unit
 
 ---
 
-**To subject objectively-judge-able species of design to the approval of a non-designer client is akin to demanding client approval from your dentist or surgeon.**
+To subject objectively-judge-able types of design to the approval of a non-designer client is akin to
+
+**demanding client approval from your dentist or surgeon.**
 
 ---
 
@@ -216,10 +226,10 @@ Through this work we have come to value design decisions as the fundamental unit
 
 ---
 
-### how can we address this problem?
+## how can we address this problem?
 
-- by starting a conversation about a taxonomy of design types and the level of subjectivity for each.
-- by crafting better stories for non-designers, explaining which parts of design benefit greatly from subjective feedback and which don't,
+- By starting a conversation about a taxonomy of design types and the level of subjectivity for each,
+- By crafting better stories for non-designers, explaining which parts of design benefit greatly from subjective feedback and which don't.
 
 ---
 
@@ -317,3 +327,4 @@ The utility of objective and subjective judgement varies by type of design. Desi
     // impressConsole().open(); // for console to open automatically
 </script>
 
+[DRY]: http://pivotallabs.com/dry-documentation/
