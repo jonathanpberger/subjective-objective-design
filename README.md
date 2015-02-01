@@ -1,3 +1,7 @@
+# Subjective Design and Objective Design, from the LeanUX NYC 2014 conference.
+
+---
+
 # Pivotal Presentation README
 
 This is a presentation template for Pivots who prefer to write presentations using command-line-based tools rather than keynote.
@@ -20,5 +24,3 @@ The goal is to make it easy for Pivots to create on-brand presentations using mo
 - overwrite `deck.md` and outline your thoughts in markdown
 - run `rake` to rapidly turn it into a presentation
 - iterate on timing, rhythm, etc. by adding, rm'ing, splitting slides. Etc.
-
-
